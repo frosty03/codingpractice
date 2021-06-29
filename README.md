@@ -20,4 +20,4 @@ Command | Description| Σ
 14|Tree | 00 
 
 
-Logs:
+Changelog:

@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 1/150 
+Command | Description| Total Σ = 2/150 
 --- | --- | ---
 01|Backtracking | 01/10 
 02|BinarySearch  | 00/10 
@@ -13,7 +13,7 @@ Command | Description| Total Σ = 1/150
 07|GreedySearch  | 00/10 
 08|HashMap  | 00/10 
 09|Set  | 00/10 
-10|Heap  | 00/10 
+10|Heap  | 01/10 
 11|Queue  | 00/10 
 12|Stack  | 00/10 
 13|SlidingWindow  | 00/10 

@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 3/150 
+Command | Description| Total Σ = 4/150 
 --- | --- | ---
 01|Backtracking | 01/10 
 02|BinarySearch  | 00/10 
@@ -16,7 +16,7 @@ Command | Description| Total Σ = 3/150
 10|Heap  | 01/10 
 11|Queue  | 00/10 
 12|Stack  | 00/10 
-13|SlidingWindow  | 00/10 
+13|SlidingWindow  | 01/10 
 14|Tree | 01/10 
 
 ----

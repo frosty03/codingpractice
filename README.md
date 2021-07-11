@@ -17,12 +17,13 @@ Command | Description| Total Σ = 8/150
 11|Queue  | 00/10 
 12|Stack  | 00/10 
 13|SlidingWindow  | 01/10 
-14|Tree | 01/10 
+14|Tree | 02/10 
 
 ----
 
 # Changelog:  
 
+* 009/150: 11/Jul [Trees](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Minimum Spanning Bitwise Or [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/TravellingTom.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60409713/)
 * 008/150: 10/Jul [Backtracking/Recursion](https://github.com/frosty03/codingpractice/tree/main/01.Backtracking) Binary Palindromes [Github File Link](https://github.com/frosty03/codingpractice/blob/main/01.Backtracking/BinaryPalindrome.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60344301/)
 * 007/150: 08/Jul [Topological Sort](https://github.com/frosty03/codingpractice/tree/main/06.TopologicalSort) Oliver And The Game [Github File Link](https://github.com/frosty03/codingpractice/blob/main/06.TopologicalSort/OliverAndTheGame.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/key/9fbe97cc43a74a77b4a8bdd48eefaae6/?theme=light%20width=%27100%%27%20height=%273266px%27%20frameborder=%270%27%20allowtransparency=%27true%27%20scrolling=%27yes%27) 
 * 006/150: 08/Jul [Topological Sort](https://github.com/frosty03/codingpractice/tree/main/06.TopologicalSort) Simple Topological Sort of Given Graph [Github File Link](https://github.com/frosty03/codingpractice/blob/main/06.TopologicalSort/TopSort3.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/key/58aeb546283e468e94ec2fd04410e20d/?theme=light&content-length=828%20width=%27100%%27%20height=%271322px%27%20frameborder=%270%27%20allowtransparency=%27true%27%20scrolling=%27yes%27) 

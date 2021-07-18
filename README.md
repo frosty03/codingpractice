@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 9/150 
+Command | Description| Total Σ = 11/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -18,11 +18,15 @@ Command | Description| Total Σ = 9/150
 12|Stack  | 00/10 
 13|SlidingWindow  | 01/10 
 14|Tree | 02/10 
+15|Array | 02/10 
 
 ----
 
 # Changelog:  
 
+
+* 011/150: 18/Jul [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Find Min value of And Xor Or Operation [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/MinAndXorOr.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60635579/)
+* 010/150: 18/Jul [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Kth Number in Sequence where there're no 11 in Bina… [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/KthBinaryNumber.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60634202/)
 * 009/150: 11/Jul [Trees](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Minimum Spanning Bitwise Or [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/TravellingTom.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60409713/)
 * 008/150: 10/Jul [Backtracking/Recursion](https://github.com/frosty03/codingpractice/tree/main/01.Backtracking) Binary Palindromes [Github File Link](https://github.com/frosty03/codingpractice/blob/main/01.Backtracking/BinaryPalindrome.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60344301/)
 * 007/150: 08/Jul [Topological Sort](https://github.com/frosty03/codingpractice/tree/main/06.TopologicalSort) Oliver And The Game [Github File Link](https://github.com/frosty03/codingpractice/blob/main/06.TopologicalSort/OliverAndTheGame.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/key/9fbe97cc43a74a77b4a8bdd48eefaae6/?theme=light%20width=%27100%%27%20height=%273266px%27%20frameborder=%270%27%20allowtransparency=%27true%27%20scrolling=%27yes%27) 

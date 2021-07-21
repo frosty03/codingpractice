@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 11/150 
+Command | Description| Total Σ = 12/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -17,14 +17,14 @@ Command | Description| Total Σ = 11/150
 11|Queue  | 00/10 
 12|Stack  | 00/10 
 13|SlidingWindow  | 01/10 
-14|Tree | 02/10 
+14|Tree | 03/10 
 15|Array | 02/10 
 
 ----
 
 # Changelog:  
 
-
+* 012/150: 20/Jul [Trees](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Count Smallar Nos on RHS of Every Number [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/CountSmallarOnRight.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/525460986/)
 * 011/150: 18/Jul [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Find Min value of And Xor Or Operation [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/MinAndXorOr.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60635579/)
 * 010/150: 18/Jul [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Kth Number in Sequence where there're no 11 in Bina… [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/KthBinaryNumber.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60634202/)
 * 009/150: 11/Jul [Trees](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Minimum Spanning Bitwise Or [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/TravellingTom.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60409713/)

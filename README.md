@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 13/150 
+Command | Description| Total Σ = 14/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -15,7 +15,7 @@ Command | Description| Total Σ = 13/150
 09|Set  | 00/10 
 10|Heap  | 01/10 
 11|Queue  | 00/10 
-12|Stack  | 00/10 
+12|Stack  | 01/10 
 13|SlidingWindow  | 01/10 
 14|Tree | 03/10 
 15|Array | 03/10 
@@ -24,6 +24,8 @@ Command | Description| Total Σ = 13/150
 
 # Changelog:  
 
+* 014/150: 24/Jul [Stack](https://github.com/frosty03/codingpractice/tree/main/15.Array) Nearest Smallar Eelement to the Left for Every Element in the Given Array
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/12.Stack/PrevSmallar.java) and [InterviewBit Submission](https://www.interviewbit.com/problems/nearest-smaller-element/)
 * 013/150: 24/Jul [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Maximum Min-Product of any Non-Empty Subarray [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/MaxSubarray3.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/527433658/)
 * 012/150: 20/Jul [Trees](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Count Smallar Nos on RHS of Every Number [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/CountSmallarOnRight.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/525460986/)
 * 011/150: 18/Jul [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Find Min value of And Xor Or Operation [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/MinAndXorOr.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/60635579/)

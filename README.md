@@ -24,6 +24,8 @@ Command | Description| Total Σ = 14/150
 
 # Changelog:  
 
+* 015/150: 24/Jul [Stack](https://github.com/frosty03/codingpractice/tree/main/12.Stack) Find fantabulous pairs
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/12.Stack/FantabulousPairs.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/61443811/)
 * 014/150: 24/Jul [Stack](https://github.com/frosty03/codingpractice/tree/main/15.Array) Nearest Smallar Eelement to the Left for Every Element in the Given Array
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/12.Stack/PrevSmallar.java) and [InterviewBit Submission](https://www.interviewbit.com/problems/nearest-smaller-element/)
 * 013/150: 24/Jul [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Maximum Min-Product of any Non-Empty Subarray [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/MaxSubarray3.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/527433658/)

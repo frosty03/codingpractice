@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 15/150 
+Command | Description| Total Σ = 16/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -14,7 +14,7 @@ Command | Description| Total Σ = 15/150
 08|HashMap  | 00/10 
 09|Set  | 00/10 
 10|Heap  | 01/10 
-11|Queue  | 00/10 
+11|Queue  | 01/10 
 12|Stack  | 02/10 
 13|SlidingWindow  | 01/10 
 14|Tree | 03/10 
@@ -24,7 +24,10 @@ Command | Description| Total Σ = 15/150
 
 # Changelog:  
 
-* 015/150: 24/Jul [Stack](https://github.com/frosty03/codingpractice/tree/main/12.Stack) Find fantabulous pairs
+
+* 016/150: 08/Aug [Queue](https://github.com/frosty03/codingpractice/blob/main/11.Queue) Disk Tower
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/11.Queue/DiskTower.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/61691006/)
+* 015/150: 02/Aug [Stack](https://github.com/frosty03/codingpractice/tree/main/12.Stack) Find fantabulous pairs
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/12.Stack/FantabulousPairs.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/61443811/)
 * 014/150: 24/Jul [Stack](https://github.com/frosty03/codingpractice/tree/main/15.Array) Nearest Smallar Eelement to the Left for Every Element in the Given Array
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/12.Stack/PrevSmallar.java) and [InterviewBit Submission](https://www.interviewbit.com/problems/nearest-smaller-element/)

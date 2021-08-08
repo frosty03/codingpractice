@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 17/150 
+Command | Description| Total Σ = 18/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -19,6 +19,7 @@ Command | Description| Total Σ = 17/150
 13|SlidingWindow  | 01/10 
 14|Tree | 03/10 
 15|Array | 03/10 
+16|Strings | 01/10 
 
 ----
 
@@ -26,8 +27,10 @@ Command | Description| Total Σ = 17/150
 
 
 
+* 018/150: 08/Aug [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Strings
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/LargestNumber.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/535319901/)
 * 017/150: 08/Aug [Queue](https://github.com/frosty03/codingpractice/blob/main/11.Queue) Eerie Planet
- [Github File Link](https://github.com/frosty03/codingpractice/blob/main/11.Queue/EeriePlanet.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/61707478/
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/11.Queue/EeriePlanet.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/61707478/)
 * 016/150: 08/Aug [Queue](https://github.com/frosty03/codingpractice/blob/main/11.Queue) Disk Tower
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/11.Queue/DiskTower.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/61691006/)
 * 015/150: 02/Aug [Stack](https://github.com/frosty03/codingpractice/tree/main/12.Stack) Find fantabulous pairs

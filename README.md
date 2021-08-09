@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 18/150 
+Command | Description| Total Σ = 19/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -19,7 +19,7 @@ Command | Description| Total Σ = 18/150
 13|SlidingWindow  | 01/10 
 14|Tree | 03/10 
 15|Array | 03/10 
-16|Strings | 01/10 
+16|Strings | 02/10 
 
 ----
 
@@ -27,7 +27,9 @@ Command | Description| Total Σ = 18/150
 
 
 
-* 018/150: 08/Aug [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Strings
+* 019/150: 09/Aug [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Longest palindromic substring in str
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/LongestPalindromicSubStr.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/535319901/)
+* 018/150: 08/Aug [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) For given nums, arrange to form the largest number
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/LargestNumber.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/535319901/)
 * 017/150: 08/Aug [Queue](https://github.com/frosty03/codingpractice/blob/main/11.Queue) Eerie Planet
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/11.Queue/EeriePlanet.java) and [Hackerearth Submission](https://www.hackerearth.com/submission/61707478/)

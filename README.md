@@ -26,8 +26,7 @@ Command | Description| Total Σ = 21/150
 # Changelog:  
 
 
-021/150 - Strings - Sherlock And Valid String
-* 020/150: 23/Oct [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Sherlock And Valid String
+* 021/150: 23/Oct [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Sherlock And Valid String
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/SherlockValidString.java) and [Hackerrank Submission](https://www.hackerrank.com/challenges/sherlock-and-valid-string/submissions/code/239721255?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)
 * 020/150: 12/Aug [Arrays](https://github.com/frosty03/codingpractice/tree/main/15.Array) Container With Most Water
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/ContainerMaxWater.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/536966226/)

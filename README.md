@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 20/150 
+Command | Description| Total Σ = 21/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -19,12 +19,16 @@ Command | Description| Total Σ = 20/150
 13|SlidingWindow  | 01/10 
 14|Tree | 03/10 
 15|Array | 04/10 
-16|Strings | 02/10 
+16|Strings | 03/10 
 
 ----
 
 # Changelog:  
 
+
+021/150 - Strings - Sherlock And Valid String
+* 020/150: 23/Oct [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Sherlock And Valid String
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/SherlockValidString.java) and [Hackerrank Submission](https://www.hackerrank.com/challenges/sherlock-and-valid-string/submissions/code/239721255?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)
 * 020/150: 12/Aug [Arrays](https://github.com/frosty03/codingpractice/tree/main/15.Array) Container With Most Water
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/ContainerMaxWater.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/536966226/)
 * 019/150: 09/Aug [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Longest palindromic substring in str

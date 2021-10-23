@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 19/150 
+Command | Description| Total Σ = 20/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -18,15 +18,15 @@ Command | Description| Total Σ = 19/150
 12|Stack  | 02/10 
 13|SlidingWindow  | 01/10 
 14|Tree | 03/10 
-15|Array | 03/10 
+15|Array | 04/10 
 16|Strings | 02/10 
 
 ----
 
 # Changelog:  
 
-
-
+* 020/150: 12/Aug [Arrays](https://github.com/frosty03/codingpractice/tree/main/15.Array) Container With Most Water
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/ContainerMaxWater.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/536966226/)
 * 019/150: 09/Aug [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Longest palindromic substring in str
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/LongestPalindromicSubStr.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/535319901/)
 * 018/150: 08/Aug [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) For given nums, arrange to form the largest number

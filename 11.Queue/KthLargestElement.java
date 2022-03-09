@@ -4,7 +4,7 @@ package com.example.stub.unassigned;
  * Problem Statement: https://leetcode.com/problems/kth-largest-element-in-an-array/
  * Submitted Solution: https://leetcode.com/submissions/detail/653891975/
  *
- * Longest common subsequence problem
+ * Kth Largest Element in an Array
  */
 
 import java.util.Collections;

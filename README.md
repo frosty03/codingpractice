@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 23/150 
+Command | Description| Total Σ = 30/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -14,17 +14,32 @@ Command | Description| Total Σ = 23/150
 08|HashMap  | 00/10 
 09|Set  | 00/10 
 10|Heap  | 01/10 
-11|Queue  | 02/10 
-12|Stack  | 02/10 
+11|Queue  | 03/10 
+12|Stack  | 03/10 
 13|SlidingWindow  | 01/10 
-14|Tree | 03/10 
-15|Array | 04/10 
+14|Tree | 05/10 
+15|Array | 05/10 
 16|Strings | 05/10 
+17|LinkedList | 02/10 
 
 ----
 
 # Changelog:  
 
+* 030/150: 09/Mar [LinkedList](https://github.com/frosty03/codingpractice/tree/main/17.LinkedList) Add 2 Linked Lists
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/17.LinkedList/Add2LinkedLists.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6ec2f5662e37847cb4ad5390e25e00b3&pid=700043&user=frosty03)
+* 029/150: 09/Mar [LinkedList](https://github.com/frosty03/codingpractice/tree/main/17.LinkedList) Reverse a Linked List in groups of given size.
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/17.LinkedList/ReverseLinkedList.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=51f76375759c51f0d7c2f31ebeff36c0&pid=700013&user=frosty03)
+* 028/150: 09/Mar [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array) Pythogorean Triplet
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/PythagoreanTriplet.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=25ee399464db1d8fc4d8a81aeb22a278&pid=702805&user=frosty03)
+ * 027/150: 09/Mar [Tree](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Lowest Common Ancestor of a Binary Tree
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/LCAOfBT.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/654580691/)
+ * 026/150: 09/Mar [Tree](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Binary Tree to DLL
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/BinaryTreeToDLL.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=4dfcc32909e13e873d03fbaed6d44ea7&pid=700144&user=frosty03)
+ * 025/150: 09/Mar [Stack](https://github.com/frosty03/codingpractice/tree/main/12.Stack) Implement Stack using Queues
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/12.Stack/StackUsingQueue.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/654642721/)
+ * 024/150: 09/Mar [Queue](https://github.com/frosty03/codingpractice/tree/main/11.Queue) Kth Largest Element in an Array
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/11.Queue/KthLargestElement.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/653891975/)
 
 * 023/150: 28/Oct [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Longest Common Subsequence
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/CommonChild.java) and [Hackerrank Submission](https://www.hackerrank.com/challenges/common-child/submissions/code/240429516)

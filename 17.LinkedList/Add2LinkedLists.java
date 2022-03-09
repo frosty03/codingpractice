@@ -1,5 +1,25 @@
 package com.example.stub.unassigned;
 
+/**
+ *
+ * Problem Statement: https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1
+ * Submitted Solution: https://practice.geeksforgeeks.org/viewSol.php?subId=6ec2f5662e37847cb4ad5390e25e00b3&pid=700043&user=frosty03
+ *
+ * Add two numbers represented by linked lists 
+ *
+Input:
+N = 2
+valueN[] = {4,5}
+M = 3
+valueM[] = {3,4,5}
+Output: 3 9 0  
+Explanation: For the given two linked
+list (4 5) and (3 4 5), after adding
+the two linked list resultant linked
+list will be (3 9 0).
+ *
+ */
+
 class Node {
     int data;
     Node next;
@@ -15,7 +35,7 @@ class Node {
     }
 }
 
-public class ReverseNumsLinkedList {
+public class Add2LinkedLists { 
     //Function to add two numbers represented by linked list.
     static Node addTwoLists(Node first, Node second){
         first = reverse(first);

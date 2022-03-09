@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 22/150 
+Command | Description| Total Σ = 23/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -19,13 +19,15 @@ Command | Description| Total Σ = 22/150
 13|SlidingWindow  | 01/10 
 14|Tree | 03/10 
 15|Array | 04/10 
-16|Strings | 04/10 
+16|Strings | 05/10 
 
 ----
 
 # Changelog:  
 
 
+* 023/150: 28/Oct [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Longest Common Subsequence
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/CommonChild.java) and [Hackerrank Submission](https://www.hackerrank.com/challenges/common-child/submissions/code/240429516)
 * 022/150: 23/Oct [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Special Palindrome
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/16.Strings/SpecialPalindrome.java) and [Hackerrank Submission](https://www.hackerrank.com/challenges/special-palindrome-again/submissions/code/239733211)
 * 021/150: 23/Oct [Strings](https://github.com/frosty03/codingpractice/tree/main/16.Strings) Sherlock And Valid String

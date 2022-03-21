@@ -2,30 +2,46 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 30/150 
+Command | Description| Total Σ = 36/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
-03|DP-LowPriority  | 00/10 
+03|DP-LowPriority  | 01/10 
 04|Graph-DFS  | 00/10 
 05|Graph-BFS  | 00/10 
 06|TopologicalSort  | 02/10 
 07|GreedySearch  | 00/10 
 08|HashMap  | 00/10 
 09|Set  | 00/10 
-10|Heap  | 01/10 
+10|Heap  | 03/10 
 11|Queue  | 03/10 
-12|Stack  | 03/10 
+12|Stack  | 04/10 
 13|SlidingWindow  | 01/10 
 14|Tree | 05/10 
-15|Array | 05/10 
+15|Array | 06/10 
 16|Strings | 05/10 
-17|LinkedList | 02/10 
+17|LinkedList | 03/10 
 
 ----
 
 # Changelog:  
 
+
+
+
+
+* 036/150: 13/Mar [DP](https://github.com/frosty03/codingpractice/tree/main/DP-LowPriority/) Edit Distance
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/03.DP-LowPriority/EditDistance.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=eb199cfd9e5e857de26f46be1e049a25&pid=703912&user=frosty03)
+* 035/150: 13/Mar [Heap](https://github.com/frosty03/codingpractice/tree/main/10.Heap/) Kth Smallest Prime Fraction
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/10.Heap/KthSmallestPrimeFraction.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/659244825/)
+* 034/150: 13/Mar [Heap](https://github.com/frosty03/codingpractice/tree/main/10.Heap/) Kth Smallest Sum
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/10.Heap/KthSmallestSum.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/659171185/)
+* 033/150: 13/Mar [Stack](https://github.com/frosty03/codingpractice/tree/main/12.Stack) Next Greater Element
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/12.Stack/NextGreaterElement.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=f9db55d90783e3f51b6455736bd1deb2&pid=701343&user=frosty03)
+* 032/150: 13/Mar [Array](https://github.com/frosty03/codingpractice/tree/main/15.Array/) Rotate Matrix
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/15.Array/RotateMatrix.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/657035971/)
+* 031/150: 13/Mar [LinkedList](https://github.com/frosty03/codingpractice/tree/main/17.LinkedList) Stock Span
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/17.LinkedList/StockSpan.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=b64a3c9a3929d5b3efa8f23392d6a73c&pid=701342&user=frosty03)
 * 030/150: 09/Mar [LinkedList](https://github.com/frosty03/codingpractice/tree/main/17.LinkedList) Add 2 Linked Lists
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/17.LinkedList/Add2LinkedLists.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6ec2f5662e37847cb4ad5390e25e00b3&pid=700043&user=frosty03)
 * 029/150: 09/Mar [LinkedList](https://github.com/frosty03/codingpractice/tree/main/17.LinkedList) Reverse a Linked List in groups of given size.

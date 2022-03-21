@@ -2,7 +2,7 @@
 
 Just for fun ^_^
 
-Command | Description| Total Σ = 36/150 
+Command | Description| Total Σ = 39/150 
 --- | --- | ---
 01|Backtracking | 03/10 
 02|BinarySearch  | 00/10 
@@ -13,11 +13,11 @@ Command | Description| Total Σ = 36/150
 07|GreedySearch  | 00/10 
 08|HashMap  | 00/10 
 09|Set  | 00/10 
-10|Heap  | 03/10 
+10|Heap  | 04/10 
 11|Queue  | 03/10 
 12|Stack  | 04/10 
-13|SlidingWindow  | 01/10 
-14|Tree | 05/10 
+13|SlidingWindow  | 02/10 
+14|Tree | 06/10 
 15|Array | 06/10 
 16|Strings | 05/10 
 17|LinkedList | 03/10 
@@ -26,11 +26,13 @@ Command | Description| Total Σ = 36/150
 
 # Changelog:  
 
-
-
-
-
-* 036/150: 13/Mar [DP](https://github.com/frosty03/codingpractice/tree/main/DP-LowPriority/) Edit Distance
+* 039/150: 16/Mar [Heap](https://github.com/frosty03/codingpractice/tree/main/10.Heap/) Task Scheduler
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/10.Heap/TaskScheduler.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/659839548/)
+* 038/150: 16/Mar [Sliding Window](https://github.com/frosty03/codingpractice/tree/main/13.SlidingWindow/) Longest K Substring
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/13.SlidingWindow/LongestkSubstr.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=8744cfb7f611e4e6f76ef3d17c9d791c&pid=703219&user=frosty03)
+* 037/150: 16/Mar [Tree](https://github.com/frosty03/codingpractice/tree/main/14.Tree) Minimum Height Trees
+ [Github File Link](https://github.com/frosty03/codingpractice/blob/main/14.Tree/MinHeightTrees.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/659673825/)
+* 036/150: 13/Mar [DP](https://github.com/frosty03/codingpractice/tree/main/03.DP-LowPriority/) Edit Distance
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/03.DP-LowPriority/EditDistance.java) and [Geeksforgeeks Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=eb199cfd9e5e857de26f46be1e049a25&pid=703912&user=frosty03)
 * 035/150: 13/Mar [Heap](https://github.com/frosty03/codingpractice/tree/main/10.Heap/) Kth Smallest Prime Fraction
  [Github File Link](https://github.com/frosty03/codingpractice/blob/main/10.Heap/KthSmallestPrimeFraction.java) and [Leetcode Submission](https://leetcode.com/submissions/detail/659244825/)
